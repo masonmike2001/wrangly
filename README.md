@@ -7,8 +7,10 @@ CLI app built in python to easily organize local photos in a provided directory
 ## Features
 
 - Favorite directories for future use
+- Switch directories in program
 - Intuitive CLI interface
-- Efficient directory searching
+- Efficient directory parsing
+
 
 ## Deployment
 
